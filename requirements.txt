@@ -1,0 +1,12 @@
+tensorflow
+librosa
+imageio
+yt_dlp
+google_auth_oauthlib
+googleapiclient
+mutagen
+fastapi
+h5py
+scikit-learn
+SQLAlchemy
+uvicorn

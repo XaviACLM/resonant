@@ -1,0 +1,14 @@
+data/*
+!data/music/
+data/music/*
+program_files/*
+temp/*
+user_files/*
+
+.idea/
+__pycache__/
+
+testdir/
+ubuntu/
+venv/
+todo.txt
